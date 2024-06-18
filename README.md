@@ -29,7 +29,7 @@ python top_v6.py
             Third View
         </td>
         <td width="50%">
-            <video src="https://github.com/ByZ0e/AI2Thor_keyboard_player/blob/main/third_view.gif"/>
+            <video src="https://github.com/ByZ0e/AI2Thor_keyboard_player/blob/main/third_view.mp4"/>
         </td>
     </tr>
 </table>
