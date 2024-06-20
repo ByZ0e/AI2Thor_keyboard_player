@@ -90,7 +90,7 @@ python keyboard_player.py
             First View
         </td>
         <td width="50%">
-            <video src="https://github.com/ByZ0e/AI2Thor_keyboard_player/blob/main/demos/first_view_FloorPlan19_physics.mp4"/>
+            <video src="https://drive.google.com/file/d/1EWjnHy5L8B8RZYz86vs7-GO965of0Oxj/view"/>
         </td>
     </tr>
 </table>
