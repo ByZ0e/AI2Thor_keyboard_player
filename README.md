@@ -1,5 +1,12 @@
-![image](https://github.com/ByZ0e/AI2Thor_keyboard_player/assets/38916866/50479fd8-e303-4349-870d-9d7a74132483)# AI2Thor Keyboard Player
-<h3 align="left">AI2Thor Data Collection Tool Based On Keyboard Interaction</h3>
+# AI2Thor Keyboard Player
+### AI2Thor Data Collection Tool Via Keyboard Interaction
+✅ Both Navigate and Interaction
+
+✅ First View / Third View Camera
+
+✅ Rotate Scene
+
+✅ Generate GIF or MP4
 
 ## Quick Start
 
@@ -22,10 +29,10 @@ python keyboard_player.py
             <img src="https://github.com/ByZ0e/AI2Thor_keyboard_player/blob/main/images/Walk.png" width="100%" />
         </td>
         <td width="33%">
-            <img src="https://github.com/ByZ0e/AI2Thor_keyboard_player/blob/main/images/Walk.png" width="100%" />
+            <img src="https://github.com/ByZ0e/AI2Thor_keyboard_player/blob/main/images/LookAround.png" width="100%" />
         </td>
         <td width="33%">
-            <img src="https://github.com/ByZ0e/AI2Thor_keyboard_player/blob/main/images/Walk.png" width="100%" />
+            <img src="https://github.com/ByZ0e/AI2Thor_keyboard_player/blob/main/images/Pitching.png" width="100%" />
         </td>
     </tr>
     <tr>
@@ -44,36 +51,51 @@ python keyboard_player.py
 ### Interaction 🦾
 <table>
     <tr>
-        <td width="25%">
+        <td width="33%">
             <img src="https://github.com/ByZ0e/AI2Thor_keyboard_player/blob/main/images/Pick&Put.png" width="100%" />
         </td>
-        <td width="25%">
-            <img src="https://github.com/ByZ0e/AI2Thor_keyboard_player/blob/main/images/Pick&Put.png" width="100%" />
+        <td width="33%">
+            <img src="https://github.com/ByZ0e/AI2Thor_keyboard_player/blob/main/images/Open&Close.png" width="100%" />
         </td>
-        <td width="25%">
-            <img src="https://github.com/ByZ0e/AI2Thor_keyboard_player/blob/main/images/Pick&Put.png" width="100%" />
-        </td>
-        <td width="25%">
-            <img src="https://github.com/ByZ0e/AI2Thor_keyboard_player/blob/main/images/Pick&Put.png" width="100%" />
+        <td width="33%">
+            <img src="https://github.com/ByZ0e/AI2Thor_keyboard_player/blob/main/images/Toggle&Slice.png" width="100%" />
         </td>
     </tr>
     <tr>
-        <td align="center" width="25%">
+        <td align="center" width="33%">
             <code>Pick&Put</code>
         </td>
-        <td align="center" width="25%">
-            <code>LookAround</code>
+        <td align="center" width="33%">
+            <code>Open&Close</code>
         </td>
-        <td align="center" width="25%">
-            <code>Pitching</code>
-        </td>
-        <td align="center" width="25%">
-            <code>Pitching</code>
+        <td align="center" width="33%">
+            <code>Toggle&Slice</code>
         </td>
     </tr>
 </table>
 
-### Demo
+### Demo 📹
+
+<table>
+    <tr>
+        <td align="center" width="80">
+            View
+        </td>
+        <td align="center" colspan="2">
+            Demo
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            First View
+        </td>
+        <td width="50%">
+            <video src="https://github.com/ByZ0e/AI2Thor_keyboard_player/blob/main/demos/first_view_FloorPlan19_physics.mp4"/>
+        </td>
+    </tr>
+</table>
+
+
 #### Third View w/ Rotate
 ![Third View w/ Rotate](https://github.com/ByZ0e/AI2Thor_keyboard_player/blob/main/third_view.gif)
 
