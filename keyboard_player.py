@@ -941,7 +941,7 @@ def main(scene_name="FloorPlan205_physics", gridSize=0.25, rotateStepDegrees=15,
 
 
 if __name__ == "__main__":
-    main(scene_name="FloorPlan17_physics", ## room
+    main(scene_name="FloorPlan19_physics", ## room
          gridSize=0.25, rotateStepDegrees=15, ## agent step len and rotate degree
          BEV=False, ## Bird's-eye view or top view(slope)
          slope_degree=60, ## top view(slope)'s initial rotate degree
@@ -951,6 +951,6 @@ if __name__ == "__main__":
          procthor_scene_num=100, ## select scene from procthor train set 
          is_rotate=True, ## top_view rotate?
          rotate_per_frame=6, ## top_view rotate degree
-         generate_video=False, ## use frames generate video
-         generate_gif=False,  ## use frames generate gif
+         generate_video=True, ## use frames generate video
+         generate_gif=True,  ## use frames generate gif
          ) 
